@@ -3,19 +3,19 @@
 //NOTE : cara menjadi publik owner silahkan Pergi ke file; all/database/owner.json
 
 require("./all/module")
-global.owner = "27632461796,27765359269" 
+global.owner = "221774317372" 
 global.namaCreator = "" 
 global.autoJoin = false 
-global.antilink = true 
+global.antilink = false 
 global.versisc = '1.0' 
 global.codeInvite = ""
 global.isLink = ' ' 
 global.thumb = fs.readFileSync("./thumb.png") 
 global.audionya = fs.readFileSync("./all/sound.mp3") 
-global.packname = "Re-Jeong01" 
+global.packname = "ZOLDICK-EMPIRE" 
 global.author = "YT : ramabrilian audio production" 
 global.jumlah = "5" 
-global.namabot = "Re-Jeong01" 
+global.namabot = "Zoldick1" 
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)

